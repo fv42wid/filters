@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\Filters\Filters\bin\Debug\netcoreapp1.1\Filters.deps.json
+C:\Users\Administrator\Desktop\Filters\Filters\bin\Debug\netcoreapp1.1\Filters.runtimeconfig.json
+C:\Users\Administrator\Desktop\Filters\Filters\bin\Debug\netcoreapp1.1\Filters.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Filters\Filters\bin\Debug\netcoreapp1.1\Filters.dll
+C:\Users\Administrator\Desktop\Filters\Filters\bin\Debug\netcoreapp1.1\Filters.pdb
+C:\Users\Administrator\Desktop\Filters\Filters\obj\Debug\netcoreapp1.1\Filters.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Filters\Filters\obj\Debug\netcoreapp1.1\Filters.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Filters\Filters\obj\Debug\netcoreapp1.1\Filters.dll
+C:\Users\Administrator\Desktop\Filters\Filters\obj\Debug\netcoreapp1.1\Filters.pdb

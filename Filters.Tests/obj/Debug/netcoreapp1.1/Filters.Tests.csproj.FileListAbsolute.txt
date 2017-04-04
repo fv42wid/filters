@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\Filters\Filters.Tests\bin\Debug\netcoreapp1.1\Filters.Tests.deps.json
+C:\Users\Administrator\Desktop\Filters\Filters.Tests\bin\Debug\netcoreapp1.1\Filters.Tests.runtimeconfig.json
+C:\Users\Administrator\Desktop\Filters\Filters.Tests\bin\Debug\netcoreapp1.1\Filters.Tests.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Filters\Filters.Tests\obj\Debug\netcoreapp1.1\Filters.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Filters\Filters.Tests\obj\Debug\netcoreapp1.1\Filters.Tests.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Filters\Filters.Tests\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Administrator\Desktop\Filters\Filters.Tests\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\Users\Administrator\Desktop\Filters\Filters.Tests\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\Users\Administrator\Desktop\Filters\Filters.Tests\bin\Debug\netcoreapp1.1\Filters.Tests.dll
+C:\Users\Administrator\Desktop\Filters\Filters.Tests\bin\Debug\netcoreapp1.1\Filters.Tests.pdb
+C:\Users\Administrator\Desktop\Filters\Filters.Tests\bin\Debug\netcoreapp1.1\Filters.dll
+C:\Users\Administrator\Desktop\Filters\Filters.Tests\bin\Debug\netcoreapp1.1\Filters.pdb
+C:\Users\Administrator\Desktop\Filters\Filters.Tests\obj\Debug\netcoreapp1.1\Filters.Tests.dll
+C:\Users\Administrator\Desktop\Filters\Filters.Tests\obj\Debug\netcoreapp1.1\Filters.Tests.pdb
